@@ -4,6 +4,7 @@
 
 - [ChemDraw Office Integration](#chemdraw-office-integration)
   - [Overview](#overview)
+  - [Challenges](#challenges)
   - [Prerequisites](#prerequisites)
   - [Set-Up Instructions](#set-up-instructions)
   - [Links](#links)
@@ -12,7 +13,11 @@
 
 ## Overview
 
-This project uses ChemDraw JS to enhance Microsoft Office application.
+This project is aiming at using *ChemDraw JS* to enhance the *ChemDraw* integration with *Microsoft Office* applications.
+
+## Challenges
+
+On details of challenges in *ChemDraw*-*Office* integration can be found [here](docs/challenges.md).
 
 ## Prerequisites
 
