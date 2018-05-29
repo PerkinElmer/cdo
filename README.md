@@ -1,8 +1,8 @@
-# ChemDraw Office Integration
+# *ChemDraw*-*Office* Integration
 
 <!-- TOC depthFrom:2 -->
 
-- [ChemDraw Office Integration](#chemdraw-office-integration)
+- [*ChemDraw*-*Office* Integration](#chemdraw-office-integration)
   - [Overview](#overview)
   - [Challenges](#challenges)
   - [Prerequisites](#prerequisites)
@@ -17,7 +17,7 @@ This project is aiming at using *ChemDraw JS* to enhance the *ChemDraw* integrat
 
 ## Challenges
 
-On details of challenges in *ChemDraw*-*Office* integration can be found [here](docs/challenges.md).
+Discussions on challenges in *ChemDraw*-*Office* integration can be found [here](docs/challenges.md).
 
 ## Prerequisites
 
